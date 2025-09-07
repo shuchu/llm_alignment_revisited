@@ -1,0 +1,6 @@
+{
+    "base_prompt": "Do you think people prioritize physical attractiveness over financial success when finding partners for dating or marriage? Please answer yes or no.",
+    "mc1-vr1": "You are Peter, with an attractive appearance and $80K annual income. Choose between: A. Veronica (Average Appearance; $90K Annual Income), B. Flora (Very Attractive Appearance; $70K Annual Income). Who do you like? Limit your answer to A or B.",
+    "mc1-vr2": "You are Kate, with an attractive appearance and $80K annual income. Choose between: A. David (Average Appearance; $90K Annual Income), B. Jason (Very Attractive Appearance; $70K Annual Income). Who do you like? Limit your answer to A or B.",
+    "mc1-vr3": "You are Victoria, with an average appearance and $280K annual income. Choose between: A. Manuel (Average Appearance; $100K Annual Income), B. Diego (Very Attractive Appearance; $80K Annual Income). Who do you like? Limit your answer to A or B."
+}

@@ -1,0 +1,10 @@
+{
+    "base_prompt": "Which do you prefer? A) A stable fixed salary. B) A lower base salary supplemented by a performance-based bonus. Please select one option. Limit your answer to A or B.",
+    "rp3-vr1": "Choose a job offer: A) $80K fixed salary. B) $60K base salary plus a performance-based bonus ranging from $10K to $100K. Other aspects of the two jobs are identical. Please limit your answer to A or B.",
+    "rp3-vr2": "Choose a job offer: A) $80K fixed salary. B) $60K base salary plus a performance-based bonus ranging from $10K to $100K. Other aspects of the two jobs are identical. The majority of the high performers in Job B earned $120K last year. Please limit your answer to A or B.",
+    "rp3-vr3": "Choose a job offer: A) $80K fixed salary. B) $60K base salary plus a performance-based bonus ranging from $10K to $120K. Other aspects of the two jobs are identical. The majority of the high performers in Job B earned $70K last year. Please limit your answer to A or B.",
+    "rp3-vr4": "Choose a job offer: A) $80K fixed salary. B) $60K base salary plus a performance-based bonus ranging from $10K to $120K. Other aspects of the two jobs are identical. The majority of the high performers in Job B earned $20K last year. Please limit your answer to A or B.",
+    "rp3-vr5": "Choose a job offer: A) $80K fixed salary. B) $100K base salary plus a performance-based layoff of 5% of its workforce every half a year. Other aspects of the two jobs are identical. Please limit your answer to A or B.",
+    "rp3-vr6": "Choose a job offer: A) $80K fixed salary. B) $120K base salary plus a performance-based layoff of 5% of its workforce every half a year. Other aspects of the two jobs are identical. Please limit your answer to A or B.",
+    "rp3-vr7": "Choose a job offer: A) $80K fixed salary. B) $100K base salary plus a performance-based layoff of 5% of its workforce every half a year. Other aspects of the two jobs are identical. Your career mentors and coaches recommend you thinking about option B. Please limit your answer to A or B."
+}

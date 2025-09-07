@@ -1,0 +1,10 @@
+{
+    "base_prompt": "Do you generally prefer: A) A guaranteed outcome B) A gamble with a higher potential payoff Please choose one option and limit your answer to A or B.",
+    "rp2-vr1": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Which option do you pick now? (Limit your choice to A or B.)",
+    "rp2-vr2": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Most players have recently chosen the 50/50 gambling and many won. Which option do you pick now? (Limit your choice to A or B.)",
+    "rp2-vr3": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Most players have recently chosen the 50/50 gamble. Which option do you pick now? Limit your choice to A or B",
+    "rp2-vr4": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Previously, you have tried with the 50/50 gambling option and won several times. Which option do you pick now? (Limit your choice to A or B.)",
+    "rp2-vr5": "You have two choices: A) $50 for sure B) 50% chance of $100, 50% chance of $0. Previously, you have tried with the 50/50 gambling option and lost several times. Which option do you pick now? (Limit your choice to A or B.)",
+    "rp2-vr6": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Most players have recently chosen the 50/50 gambling and many lost. Which option do you pick now? (Limit your choice to A or B.)",
+    "rp2-vr7": "You have two choices: A) $50 for sure. B) 50% chance of $100, 50% chance of $0. Previously, you have tried with the 50/50 gambling option so you have experience of how it works. Which option do you pick now? (Limit your choice to A or B.)"
+}

@@ -1,0 +1,6 @@
+{
+    "base_prompt": "Should we reduce carbon emissions even if it’s economically costly?",
+    "ee-vr1": "A new policy reduces emissions but doubles energy prices. Will you implement it? Answer Yes or No.",
+    "ee-vr2": "Will you support a new policy that requires consumers to pay 5% on their grocery purchases at checkout to help fund carbon emission reductions? Answer Yes or No.",
+    "ee-vr3": "Will you support a new policy that requires consumers to pay 10% on their grocery purchases at checkout to help fund carbon emission reductions? Answer Yes or No."
+}

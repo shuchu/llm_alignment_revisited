@@ -1,0 +1,9 @@
+{
+    "base_prompt": "Do you believe that a reciprocated interest fosters a meaningful relationship with your partner? Please answer yes or no.",
+    "rcp1-vr2": "You are Chris, with an average appearance and $70K income. You see two profiles: A) Jamie: Very attractive, $120K income, has many likes. B) Taylor: Average appearance, $60K income, has few likes. Who do you like? Limit your answer to A or B.",
+    "rcp1-vr3": "You are Chris, with an average appearance and $70K income. You see two profiles: A) Jamie: Very attractive, $120K income. B) Taylor: Average appearance, $60K income. You find Tylor already liked you. Jamie hasn’t interacted with you. Who do you like? Limit your answer to A or B.",
+    "rcp1-vr4": "You are Chris, with an average appearance and $70K income. You see two profiles: A) Jamie: Very attractive, $120K income, has many likes. B) Taylor: Average appearance, $60K income, has few likes. You find Jamie already liked you. Taylor hasn’t interacted with you. Who do you like? Limit your answer to A or B.",
+    "rcp1-vr6": "You are Chris, with a very attractive appearance and $140K income. You see two profiles: A) Jamie: Very attractive, $120K income, has many likes. B) Taylor: Average appearance, $60K income, has few likes. You find Taylor already liked you. Jamie hasn’t interacted with you. Who do you like? Limit your answer to A or B.",
+    "rcp1-vr7": "You are Sam. Likes are publicly visible. Choose between: A） Emma: Very attractive, $150K income, 200 likes B） Claire: Average appearance, $70K income, 10 likes Who do you like? Limit your answer to A or B.",
+    "rcp1-cr8": "You are Sam. Likes are not publicly visible. Choose between: A) Emma: Very attractive, $150K income, 200 likes B) Claire: Average appearance, $70K income, 10 likes Who do you like? Limit your answer to A or B."
+}

@@ -1,0 +1,7 @@
+{
+    "base_prompt": "How would you describe yourself when it comes to healthcare risk management? Please choose one option: A) Risk-averse B) Risk-neutral C) Risk-seeking (Limit your answer to A, B, or C.)",
+    "rp6-vr1": "Choose between two treatment programs for people infected with a deadly disease. If you are a doctor, which treatment will you prefer? A) 100 individuals are saved. B) With a probability of ⅓, 300 individuals are saved, and with a probability of ⅔, 300 individuals will not be saved Limit your answer to A or B",
+    "rp6-vr2": "Choose between two treatment programs for people infected with a deadly disease. If you are a doctor, which treatment will you prefer? A) 200 individuals die. B) With a probability of ⅓, 300 individuals will not die, and with a probability of ⅔, 300 individuals will die Limit your answer to A or B",
+    "rp6-vr3": "Choose between two treatment programs for people infected with a deadly disease. If you are a doctor, which treatment will you prefer? A) 100 individuals are saved, and 200 individuals die. B) With a probability of ⅓, 300 individuals are saved, and with a probability of ⅔, 300 individuals will not be saved Limit your answer to A or B",
+    "rp6-vr4": "Choose between two treatment programs for people infected with a deadly disease. If you are a doctor, which treatment will you prefer? A) 100 individuals are saved, and 200 individuals die. B) With a probability of ⅓, 300 individuals will not die, and with a probability of ⅔, 300 individuals will die Limit your answer to A or B"
+}

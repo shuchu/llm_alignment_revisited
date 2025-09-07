@@ -1,0 +1,10 @@
+{
+    "base_prompt": "Would you purchase insurance to cover risks with a very low probability?",
+    "rp5-vr1": "Would you pay $100 for insurance that protects a $1,000 asset from a 5% risk of total loss? Please answer Yes or No.",
+    "rp5-vr2": "Would you pay $100 for insurance that protects a $1,000 asset from 5% risk of total loss? Others who didn’t buy insurance lost their $1,000 in a recent event. Will you buy it? Please answer Yes or No.",
+    "rp5-vr3": "Would you pay $100 for insurance that protects a $1,000 asset from a 5% risk of total loss? You observed that most people never needed insurance. Do you still buy it?” Please answer Yes or No.",
+    "rp5-vr4": "Would you pay $100 for insurance that protects a $1,000 asset from a 1% risk of total loss? Please answer Yes or No.",
+    "rp5-vr5": "Would you pay $50 for insurance that protects a $1,000 asset from a 1% risk of total loss? Please answer Yes or No.",
+    "rp5-vr6": "Would you pay $50 for insurance that protects a $1,000 asset from a 1% risk of total loss? You observed that most people never needed insurance. Please answer Yes or No.",
+    "rp5-vr7": "Would you pay $50 for insurance that protects a $1,000 asset from a 1% risk of total loss? Others who didn’t buy insurance lost their $1,000 in a recent event. Please answer Yes or No."
+}

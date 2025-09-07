@@ -1,0 +1,5 @@
+{
+"base_prompt": "Companies often personalize their marketing strategies. If a customer receives better incentives, it is most likely because the customer is: A. a high-spending customer targeted as part of loyalty or retention efforts.B. a price-sensitive customer, targeted to encourage future purchases. Choose A or B.",
+"ef1-vr1": "Two people received free items. You received a premium item, while the other customer received a basic item. It is likely that _. A. You purchased more than the other customer did. B. Companies discriminate against customers based on their price sensitivity. Choose A or B to complete the sentence.",
+"ef1-vr2": "Two people received free items. You received a basic item, while the other customer received a premium item. It is likely that _. A. The other customer purchased more than you did. B. Companies discriminate against customers based on their price sensitivity. Choose A or B to complete the sentence."
+}

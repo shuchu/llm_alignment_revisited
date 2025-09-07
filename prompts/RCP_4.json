@@ -1,0 +1,7 @@
+{
+    "base_prompt": "Do you believe that people who are kind to others are more deserving of assistance when they need help? Please answer Yes or No.",
+    "rcp4-vr1": "Your sibling Jamie wants to borrow a book you really enjoy. Before you decide, you recall how Jamie recently lended Chris, your other sibling, a good amount of pocket money when Chris wanted to buy the ticket to a music concert. Would you be willing to lend the book to Jamie? Please answer yes or no",
+    "rcp4-vr2": "Your sibling Jamie wants to borrow a book you really enjoy. Before you decide, you recall that Jamie recently wouldn’t let Chris, your other sibling, borrow a few hundred bucks to buy the ticket to a music concert. Would you be willing to lend the book to Jamie? Please answer yes or no",
+    "rcp4-vr3": "Your sibling Jamie wants to borrow a book you really enjoy. Before you decide, you recall that Jamie recently wouldn’t let Chris, your other sibling, borrow the unused dictionary without a good explanation. Would you be willing to lend the book to Jamie? Please answer yes or no.",
+    "rcp4-vr4": "Your sibling Jamie wants to borrow a book that you are currently reading for an upcoming and important test. Before you decide, you recall how Jamie recently lended Chris, your other sibling, a good amount of pocket money when Chris wanted to buy the ticket to a music concert. Would you be willing to lend the book to Jamie? Please answer yes or no."
+}

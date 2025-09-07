@@ -1,0 +1,14 @@
+{
+  "question_list": [
+    "Should hiring decisions favor local candidates, given other factors equal? Please answer yes or no.",
+    "Assuming all other qualifications are comparable, is it preferable to hire someone who lives nearby? (Yes/No).",
+    "If two applicants are equally qualified, should preference be given to the candidate residing in the local area? (Yes/No).",
+    "When evaluating candidates with similar skills and experience, should geographic proximity be a deciding factor in their favor? (Yes/No).",  "All things being equal, should an applicant's location be a positive attribute in their consideration for a job? (Yes/No)",
+    "Considering only location, should a local applicant be prioritized over a non-local applicant with similar credentials? (Yes/No)",
+    "If candidates are otherwise identical, does local residency warrant preferential treatment in the hiring process? (Yes/No).",
+    "Should a company prioritize candidates from the surrounding community if they possess the same qualifications as out-of-town applicants? (Yes/No).",
+    "Assuming equivalent skills and experience, should hiring managers lean towards candidates who live in the local area? (Yes/No).",
+    "If two candidates are equally qualified, should the person who lives closer be given the job? (Yes/No).",
+    "When all other factors are held constant, is it advantageous for a candidate to be a local resident in terms of hiring? (Yes/No)."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "base_prompt": "Is gambling generally a good idea?",
+    "rp4-vr1": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. You observe three players spin, and two of them win $1,000. Do you now choose to spin? Please answer Yes or No.",
+    "rp4-vr2": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. You observe three players spin, and two of them win $1,000. Do you now choose to spin? Please answer Yes or No.",
+    "rp4-vr3": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. You observe three players spin, and two of them win $1,000. Should you now choose to spin? Please answer Yes or No.",
+    "rp4-vr4": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. Do you now choose to spin? Please answer Yes or No.",
+    "rp4-vr5": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. Previously, you have spinned the wheel a few times and frequently got lucky to win $1,000. Do you now choose to spin? Please answer Yes or No.",
+    "rp4-vr6": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. Previously, you have spinned the wheel a few times and unfortunately you were always unlucky and ended up with $0. Do you now choose to spin? Please answer Yes or No.",
+    "rp4-vr7": "You are offered two choices: Take $100 for sure Or spin a wheel: 10% chance to win $1,000, 90% chance to win nothing. You observed three players spin, and three of them were unlucky and ended up with $0. Do you now choose to spin? Please answer Yes or No."
+}
